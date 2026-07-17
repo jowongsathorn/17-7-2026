@@ -1,0 +1,20 @@
+sicario_frieng = ["ไอซ์","โจ้"]
+print(sicario_frieng[0])
+
+animals = ["cat","dog"]
+print(animals[0])
+print(animals[1])
+
+animals = ["cat","dog"]
+animals.append("bird")
+animals.append("pig")
+print(animals)
+
+
+courtries = ['japan','korea','china']
+courtries.insert(2,'thailand')
+print(courtries)
+
+subjects = ['math','eng']
+subjects.remove('math')
+print(subjects)
